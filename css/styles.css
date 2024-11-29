@@ -1,0 +1,37 @@
+/* Background Colors */
+.bg-hero {
+  background-color: #353a40;
+}
+.bg-section {
+  background-color: #91a5a7;
+}
+.bg-gallery {
+  background-color: #5e68e6;
+}
+.bg-contact {
+  background-color: #cd873c;
+}
+
+/* Hero Section */
+header {
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* General Styling */
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* Contact Info Styling */
+.contact-info p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+.contact-info i {
+  color: #ffd700; /* Warna emas untuk ikon */
+}
